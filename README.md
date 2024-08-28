@@ -1,6 +1,6 @@
-### Notable Projects
+## Notable Projects
 
-## Machine Learning Research on Music Data
+### Machine Learning Research on Music Data
 ### [Visit Here](https://github.com/graceli5/UPF-work.git)
 
 Research work done as a UPF Music Technology Group Intern.
@@ -15,7 +15,7 @@ Facial Landmarks and Pitch Project:
 - Explored the accuracy with which models can predict the pitch or note a singer is at by analyzing their facial position in video data
 - fill in:)))
 
-## Visualizations and Predictions on US Housing Market Data
+### Visualizations and Predictions on US Housing Market Data
 ### [Visit Here](https://github.com/graceli5/PIC-16B-Final-Project.git)
 
 Project completed in collaboration with UCLA peers during the 2023-2024 school year as a capstone for Advanced Python with Applications course.
