@@ -1,6 +1,7 @@
 ### Analysis of US Housing Market Data - [View Here](https://github.com/graceli5/PIC-16B-Final-Project.git)
 
 _Completed in collaboration with UCLA peers during the 2023-2024 school year._
+
 **Project**: Analyzing what factors most heavily influence US housing prices, and constructing a model to classify listing prices.
 - Merged together four datasets, preformed data cleaning, and explored dimension reduciton/feature selection to prepare information for modeling.
 - Created in-depth Seaborn visualizations to depict trends between real-estate prices, physical features, and societal factors
