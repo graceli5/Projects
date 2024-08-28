@@ -14,7 +14,7 @@ Respiration and Posture Project:
 Facial Landmarks and Pitch Project:
 - fill in
 
-## [Visualizations and Predictions on US Housing Market Data]
+## Visualizations and Predictions on US Housing Market Data
 ### [Visit Project Here](https://github.com/graceli5/PIC-16B-Final-Project.git)
 
 Project completed in collaboration with UCLA peers during the 2023-2024 school year as a capstone for Advanced Python with Applications course.
