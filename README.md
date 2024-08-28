@@ -6,7 +6,7 @@ _Completed in collaboration with UCLA peers during the 2023-2024 school year._
 - Merged together four datasets, preformed data cleaning, and explored dimension reduciton/feature selection to prepare information for modeling.
 - Created in-depth Seaborn visualizations to depict trends between real-estate prices, physical features, and societal factors
 - Trained and compared SVM, Logistic Regression, K Nearest Neighbors, Decision Tree, Random Forest and Max Voting Classifier models, each constructed using a Grid Search algorithm to tune parameters and cross validation on testing data.
-- Identified and created optimal neural network model by tuning layers, batch size, and activation function. Scored the model using 20-fold CV and implemented a confusion matrix to identify error.
+- Created neural network model with layer, batch size, and activation tuning, scored the model using 20-fold CV, and implemented confusion matrix to identify error.
 
 ### Machine Learning Research on Music Data - [View Here](https://github.com/graceli5/UPF-work.git)
 
