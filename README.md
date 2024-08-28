@@ -3,8 +3,8 @@
 _Completed in collaboration with UCLA peers during the 2023-2024 school year._
 
 **Project**: Analyzing what factors most heavily influence US housing prices, and constructing a model to classify listing prices.
-- Merged together four datasets, preformed data cleaning, and explored dimension reduciton/feature selection to prepare information for modeling.
-- Created in-depth Seaborn visualizations to depict trends between real-estate prices, physical features, and societal factors
+- Merged together four datasets, preformed data cleaning, and explored dimension reduciton/feature selection to prepare for modeling.
+- Created in-depth Seaborn visualizations to depict trends and reveal variable relationships.
 - Trained and compared SVM, Logistic Regression, K Nearest Neighbors, Decision Tree, Random Forest and Max Voting Classifier models, each constructed using a Grid Search algorithm to tune parameters and cross validation on testing data.
 - Created neural network model with layer, batch size, and activation tuning, scored the model using 20-fold CV, and implemented confusion matrix to identify error.
 
