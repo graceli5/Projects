@@ -21,7 +21,7 @@ _Research work done as a UPF Music Technology Group Intern._
 - Generated statistical summary features from respiration data for each sung note.
 - Built and fine-tuned Scikit-Learn (KNN, random forest, logistic regression, SVM) and TensorFlow FNN models, using cross-validation to enhance prediction accuracy
 
-### Visualization and Manipulation of Climate Data - [View Here](https://github.com/graceli5/Data-Visualization-Climate.git)
+### Visualization of Climate Data - [View Here](https://github.com/graceli5/Data-Visualization-Climate.git)
 
 **Project**: Practice querying, joining, and visualizing databases to depict the historical effects of Global Warming.
 - Consolidated, merged, and cleaned multiple datasets to identify and extract key features.
