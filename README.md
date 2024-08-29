@@ -23,7 +23,7 @@ _Research work done as a UPF Music Technology Group Intern._
 
 ### Visualization of Climate Data - [View Here](https://github.com/graceli5/Data-Visualization-Climate.git)
 
-**Project**: Practice querying, joining, and visualizing databases to depict the historical effects of Global Warming.
+**Project**: Practicing querying, joining, and visualizing databases to depict the historical effects of Global Warming.
 - Consolidated, merged, and cleaned multiple datasets to identify and extract key features.
 - Applied querying techniques, dataframe stacking, and advanced Matplotlib tools to generate insightful subplots, scatter plots, and bar plots, clearly illustrating trends in the data.
  
