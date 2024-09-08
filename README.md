@@ -14,8 +14,8 @@ _Research work done as a UPF Music Technology Group Intern._
 
 **Project**: Exploring the accuracy with which models can predict the pitch/note one is singing at by analyzing their facial position in video data.
 - Developed high-performing KNN and random forest models to classify notes into four categories using 60 facial landmarks.
-- Applied PCA for dimensionality reduction, retaining model effectiveness with just four components.
-- Conducted feature importance analysis to identify facial points most indicative of pitch while singing.
+- Applied PCA dimensionality reduction, retaining model effectiveness with 4 components.
+- Conducted feature importance analysis to identify facial points most indicative of pitch.
 
 **Project**: Researching whether it is possible to predict when a participant is singing using correct or poor posture using only respiration sensor data.
 - Generated statistical summary features from respiration data for each sung note.
@@ -24,6 +24,6 @@ _Research work done as a UPF Music Technology Group Intern._
 ### Visualization of Climate Data - [View Here](https://github.com/graceli5/Data-Visualization-Climate.git)
 
 **Project**: Practicing querying, joining, and visualizing databases to depict the historical effects of Global Warming.
-- Consolidated, merged, and cleaned multiple datasets to identify and extract key features.
+- Consolidated, merged, and cleaned multiple datasets to extract key features.
 - Applied querying techniques, dataframe stacking, and advanced Matplotlib tools to generate insightful subplots, scatter plots, and bar plots, clearly illustrating trends in the data.
  
