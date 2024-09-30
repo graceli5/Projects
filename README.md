@@ -23,14 +23,14 @@ _Research work done as a UPF Music Technology Group Intern._
 
 ### Spotting Fake News with Neural Networks - [View Here](https://github.com/graceli5/Fake-News-Classification.git)
 
-**Project**: Training Neural Networks to classify real vs fake news using pre-processed text inputs
+**Project**: Training Neural Networks to classify real vs fake news from pre-processed text.
 - Executed natural language processing (NLP) techniques to clean, tokenize, and vectorize news articles, constructing a new TensorFlow dataset.
-- Developed and trained multiple neural network models: one title-based, one text-based, and one combined input using a functional API.
+- Developed and trained multiple neural network models: one taking in article titles, one article text, and one combined input using a functional API.
 - Plotted training vs. validation metrics to evaluate performance and conducted accuracy comparisons to determine the most effective model architecture.
   
 ### Visualization of Climate Data - [View Here](https://github.com/graceli5/Data-Visualization-Climate.git)
 
 **Project**: Practicing querying, joining, and visualizing databases to depict the historical effects of Global Warming.
 - Consolidated, merged, and cleaned multiple datasets to extract key features.
-- Applied querying techniques, dataframe stacking, and advanced Matplotlib tools to generate insightful subplots, scatter plots, and bar plots, illustrating trends in the data.
+- Applied querying techniques, dataframe stacking, and advanced Matplotlib tools to generate insightful subplots, scatter plots, and bar plots illustrating trends in the data.
  
